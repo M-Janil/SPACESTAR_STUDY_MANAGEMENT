@@ -1,10 +1,10 @@
 {
-  "name": "antigravit",
-  "version": "0.1.0",
+  "name": "starspace",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint"
   },

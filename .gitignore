@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (never commit secrets)
 .env*
+!.env.example
 .env.local
 .env.*.local
 
@@ -44,4 +45,3 @@ next-env.d.ts
 
 # unrelated projects / local
 /makeaton
-
